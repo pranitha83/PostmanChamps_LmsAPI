@@ -1,0 +1,13 @@
+loginId,password,Baseurl,loginEndpoint,ExpectedLoginStatus,testflag,lastname,roleId,rolestatus,timezone,visastatus,middlename,linkedinUrl,EDU UG ,EDU PG,comments,updateLastname,userEmailId,updatedEDUPG,userPassword,programStatus,programDesc,batchName,batchStatus,batchNoOfClasses,batchDescription
+sdet1@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,400,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdetorganizers@gmail.com,Numpy,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,400,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdet,Numpy,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,400,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdet1@gmail.com,Numpy,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,400,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,log,404,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon.com,login,404,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon.com,log,404,loginmodule,,,,,,,,,,,,,,,,,,,,
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,200,usermodule,Team,R02,1234,PST,H4-EAD,B,https://www.linkedin.com/in/jon,BS,MS,none,champs,post.5@gmai52.com,,password@12,987,none,12345,Active,3,none
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,200,usermodule,T11,R01,Active,CST,H1B,none,https://www.linkedin.com/in/jon,BCA,MCA,none,,post.champs53@gmail.com,,pass#$765,Inactive,,SDET001,ABCD,4,NA
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,200,usermodule,Team,R01,Active,PST,US-Citizen,none,https://www.linkedin.com/in/jon,Btech,Mtech,user admin created,champs,post.champs89@gmail.com,MS,password2,Active,SDET,SDET01,Active,5,SDET batch
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,200,usermodule,Team,R02,Active,EST,US-Citizen,none,https://www.linkedin.com/in/jon,string,string,string,champs,post.champs88@gmail.com,,numpyninja@2,Active,DA,DA01,Active,2,DA batch
+sdetorganizers@gmail.com,Numpyninja@1,lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms,login,200,usermodule,Team,R03,Active,IST,H1B,none,https://www.linkedin.com/in/jon,BA,MA,user student,champs,post.champs87@gmail.com,,password22,Active,SF,SF002,Active,1,SF batch
